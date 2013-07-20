@@ -1,0 +1,40 @@
+
+# /
+/INSTALL
+/Makefile
+/Makefile.in
+/aclocal.m4
+/autom4te.cache
+/config.guess
+/config.log
+/config.status
+/config.sub
+/configure
+/depcomp
+/missing
+/mkinstalldirs
+/install-sh
+/intltool-extract
+/intltool-extract.in
+/intltool-merge
+/intltool-merge.in
+/intltool-update
+/intltool-update.in
+
+# /data/
+/data/superswitcher.SuperSwitcher.service
+/data/Makefile.in
+/data/Makefile
+
+# /po/
+/po/Makefile
+/po/Makefile.in
+/po/Makefile.in.in
+/po/POTFILES
+/po/stamp-it
+
+# /src/
+/src/Makefile.in
+/src/superswitcher
+/src/.deps
+/src/Makefile
